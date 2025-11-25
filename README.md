@@ -1,6 +1,6 @@
-<h1> Auto Power Cycle </h1>
+<h1> Auto-PowerCycle </h1>
 
-PowerShell helper that watches Windows event logs and power-cycles a monitor when both power-related events occur (Kernel-Power 105 and DellTechHub "PowerEvent handled successfully"). Uses NirSoft's `ControlMyMonitor.exe` to send the VCP power command to the selected display.
+PowerShell script that watches Windows event logs and power-cycles a monitor when both power-related events occur (Kernel-Power 105 and DellTechHub "PowerEvent handled successfully"). Uses NirSoft's `ControlMyMonitor.exe` to send the VCP power command to the selected display.
 
 <h2> Table of Contents </h2>
 
